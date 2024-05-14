@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date: 28.04.2024
+## Date: 06.05.2024
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -29,7 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ### index.html:
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,9 +69,9 @@ Publish the website in the given URL.
     
 </body>
 </html>
-```
+
 ### Product.html:
-```
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -162,9 +162,9 @@ Publish the website in the given URL.
 </body>
 
 </html>
-```
+
 ### people.html:
-```
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -263,9 +263,9 @@ Publish the website in the given URL.
         </div>
     </div>
 </body>
-```
+
 ### contact.html:
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -304,7 +304,7 @@ Publish the website in the given URL.
         </div>
     </div>
 </body>
-```
+
 
 
 ## OUTPUT:
@@ -322,4 +322,4 @@ Publish the website in the given URL.
 
 
 ## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
+The program for designing software company website using HTML and CSS is completed successfully
